@@ -1,2 +1,4 @@
 import '@/styles/global.scss'
-console.log('asdasdass')
+import { Router } from './core/router/router'
+
+new Router()
